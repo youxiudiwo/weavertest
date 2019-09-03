@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class WevaerApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(WevaerApplication.class, args);
+    public static void main(String[] args2) {
+        SpringApplication.run(WevaerApplication.class, args2);
     }
 
 }
