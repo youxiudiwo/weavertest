@@ -5,4 +5,7 @@ package com.weaver.wevaer;
  * @date 2019/7/20 - 23:00
  */
 public class heihei {
+    public void hello(){
+        System.out.println("helloword");
+    }
 }
